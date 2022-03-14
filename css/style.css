@@ -1,0 +1,88 @@
+*{
+  box-sizing: border-box;
+}
+
+
+h1, h2{
+  text-align: center;
+}
+
+ul{
+  width: 25%;
+  height: 50vh;
+  border: 3px solid black;
+  margin-top: 35vh;
+  list-style: none;
+  padding: 0;
+  float: right;
+  margin-top: 35vh;
+}
+li{
+  width: 33%;
+  height: 20%;
+  border: 1px solid black;
+  float: left;
+  background-position: center;
+  background-size: cover;
+}
+
+#subZero {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/subZero.PNG');
+}
+
+#scorpion {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/scorpion.PNG');
+}
+
+#mileena {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/mileena.PNG');
+}
+
+#shaoKahn {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/shaoKahn.PNG');
+}
+
+#frost {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/frost.PNG');
+}
+
+#reptile {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/reptile.PNG');
+}
+
+#cassieCage {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/cassieCage.PNG');
+}
+
+#liuKang {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/liuKang.PNG');
+}
+
+#raiden {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/raiden.PNG');
+}
+
+#kitana {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/kitana.PNG');
+}
+
+#noobSaibot {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/noobSaibot.PNG');
+}
+
+#sonyaBlade {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/sonyaBlade.PNG');
+}
+
+#johnnyCage {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/johnnyCage.PNG');
+}
+
+#jade {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/jade.PNG');
+}
+
+#sheeva {
+  background-image: url('C:/Users/Chris/Downloads/class12-materials/sheeva.PNG');;
+}
+
